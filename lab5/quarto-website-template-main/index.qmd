@@ -1,0 +1,18 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/nandita-image.png"
+  links:
+     - text: Email
+       href: "mailto:nandita.shankar2@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# About Me
+
+Hello, I'm Nandita Shankar. Welcome to my website! I am a senior undergraduate at CWRU pursuing a BS in Biology with minors in Anthropology, Chemistry, and Spanish. I am concurrently pursuing an MS in Clinical Research. 
+
+On this website, you will find some information regarding my education and experience as well as my curriculum vitae. Please feel free to [contact me](mailto:nandita.shankar2@case.edu). 
