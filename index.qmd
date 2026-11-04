@@ -1,43 +1,39 @@
 ---
-layout: page
-title: Curriculum vitae
-excerpt: My current CV
-execute:
-  freeze: true  # never re-render during project render
-engine: knitr 
-resources:
-  - "cv.pdf"
-cv:
-  pdf: "cv.pdf"
+title: "Education and Experience"
 ---
 
-```{css echo=FALSE}
-.embed-container {
-    position: relative;
-    padding-bottom: 129%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-}
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-```
+# Education
 
-```{=html}
-<p class="text-center">
-  <a class="btn btn-primary btn-lg cv-download" href="`r rmarkdown::metadata$cv$pdf`" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download current CV
-  </a>
-</p>
-<div class="embed-container">
-  <iframe src="`r rmarkdown::metadata$cv$pdf`#toolbar=0" style="border: 0.5px;width: 100%;"></iframe>
-</div>
-```
+**M.S. Clinical Research - Case Western Reserve University, Cleveland, OH **
 
+Expected May 2027, GPA 4.00
+
+**B.S. Biology - Case Western Reserve University, Cleveland, OH**
+
+Expected May 2027, GPA 3.93
+
+Minors: General Anthropology, Chemistry, Spanish
+
+Honors and Awards: Dean's High Honors (Fall 2023-Present), Case Alumni Association Junior-Senior Scholarship (Fall 2025-Present)
+
+# Experience
+
+1. Undergraduate Student Researcher, Crown Lab, CWRU
+
+    May 2025 - May 2026
+
+   Investigated molecular mechanisms of meiosis using gel electrophoresis, yeast two-hybrid assays, PCR, and immunofluorescence     imaging to characterize protein-protein interactions
+  
+   Analyzed experimental results to identify proteins involved in meiotic recombination
+
+2. Undergraduate Teaching Assistant for Biology Lab, CWRU
+
+    August 2024 - May 2026
+
+     Guided students through laboratory techniques and protocols, assisted in preparing for lab experiments, monitored student      safety and progress
+
+3. Research Assistant Internship, Lynch Lab, ASU
+
+    May 2024 - August 2024
+
+    Conducted molecular biology experiments using PCR, gel electrophoresis, DNA extractions, and tissue dissections to identify     molecular indicators of aging
