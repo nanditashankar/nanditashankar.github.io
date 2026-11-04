@@ -1,39 +1,18 @@
 ---
-title: "Education and Experience"
+about:
+  template: jolla
+  id: about-block
+  image: "img/nandita-image.png"
+  links:
+     - text: Email
+       href: "mailto:nandita.shankar2@case.edu"  
 ---
 
-# Education
+::: {#about-block}
+:::
 
-**M.S. Clinical Research - Case Western Reserve University, Cleveland, OH **
+# About Me
 
-Expected May 2027, GPA 4.00
+Hello, I'm Nandita Shankar. Welcome to my website! I am a senior undergraduate at CWRU pursuing a BS in Biology with minors in Anthropology, Chemistry, and Spanish. I am concurrently pursuing an MS in Clinical Research. I love to spend my free time listening to music (my favorite artist at the moment is The Strokes) and reading (my favorite author at the moment is Charlie Donlea)!
 
-**B.S. Biology - Case Western Reserve University, Cleveland, OH**
-
-Expected May 2027, GPA 3.93
-
-Minors: General Anthropology, Chemistry, Spanish
-
-Honors and Awards: Dean's High Honors (Fall 2023-Present), Case Alumni Association Junior-Senior Scholarship (Fall 2025-Present)
-
-# Experience
-
-1. Undergraduate Student Researcher, Crown Lab, CWRU
-
-    May 2025 - May 2026
-
-   Investigated molecular mechanisms of meiosis using gel electrophoresis, yeast two-hybrid assays, PCR, and immunofluorescence     imaging to characterize protein-protein interactions
-  
-   Analyzed experimental results to identify proteins involved in meiotic recombination
-
-2. Undergraduate Teaching Assistant for Biology Lab, CWRU
-
-    August 2024 - May 2026
-
-     Guided students through laboratory techniques and protocols, assisted in preparing for lab experiments, monitored student      safety and progress
-
-3. Research Assistant Internship, Lynch Lab, ASU
-
-    May 2024 - August 2024
-
-    Conducted molecular biology experiments using PCR, gel electrophoresis, DNA extractions, and tissue dissections to identify     molecular indicators of aging
+On this website, you will find some information regarding my education and experience as well as my curriculum vitae. Please feel free to [contact me](mailto:nandita.shankar2@case.edu). 
